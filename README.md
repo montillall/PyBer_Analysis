@@ -8,8 +8,8 @@ The objective of the analysis is to create a summary of the ride-sharing data by
 ---
 ## PyBer Analysis Results
 
-The table below, shows a summaryof the differences in ride-sharing data among the different city types.
-![](analysis/School_District_Original_Analysis.png)
+The table below, shows a summary of the differences in ride-sharing data among the different city types.
+![](analysis/Pyber_Summary_by_City.png)
 
 ### - District Summary Impact
 
