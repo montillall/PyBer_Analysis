@@ -2,12 +2,14 @@
 
 ## Overview of the PyBer Analysis
 
-The objective of the analysis is to create a summary of the ride-sharing data by city type as well as to create a multiple-line graph using python, pandas and matplotlib to display the total weekly fares for each city type and understand how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+The objective of the analysis is to create a summary of the ride-sharing data by city type as well as to create a multiple-line graph using python, pandas and matplotlib to display the total weekly fares for each city type and understand how the data differs by city type and how those differences can be used by decision-makers at PyBer in order to improve access to ride-sharing services and determine affordability for under serve neighborhoods.
+
 
 ---
 ## PyBer Analysis Results
 
-The impact of replacing the math and reading scores for Thomas High School with NaNs can be summarize as follows:
+The table below, shows a summaryof the differences in ride-sharing data among the different city types.
+![](analysis/School_District_Original_Analysis.png)
 
 ### - District Summary Impact
 
