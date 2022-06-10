@@ -2,13 +2,7 @@
 
 ## Overview of the PyBer Analysis
 
-The school district analysis consists of preparing standardized test data from a variety of sources and formats for analysis, reporting and presentation to provide insights about performance trends and patterns. The insights are used to inform discussions at the school and district level and assist the school board reagarding school budget and priority. 
-
-The objectives of the original analysis was to analyze data on student funding and students standardized test scores, aggregate the data and showcase trends and school performance.
-
-However, the school board has notified that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards. 
-
-Based on this notice, the objective of the following analysis is to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once the math and reading scores have been replaced. It is expected to repeat the school district analysis that has been initially done and describe how these changes affected the overall analysis. 
+The objective of the analysis is to create a summary of the ride-sharing data by city type using python and pandas as well as to create a multiple-line graph to display the total weekly fares for each city type and understand how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ---
 ## PyBer Analysis Results
