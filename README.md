@@ -2,7 +2,7 @@
 
 ## Overview of the PyBer Analysis
 
-The objective of the analysis is to create a summary of the ride-sharing data by city type using python and pandas as well as to create a multiple-line graph to display the total weekly fares for each city type and understand how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+The objective of the analysis is to create a summary of the ride-sharing data by city type as well as to create a multiple-line graph using python, pandas and matplotlib to display the total weekly fares for each city type and understand how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ---
 ## PyBer Analysis Results
