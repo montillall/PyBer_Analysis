@@ -16,7 +16,7 @@ The summary of the data provides the following observations:
 * Urban cities have a ratio of about 2 drivers per ride, (less rides compared to available drivers).
 * The average fares per ride and per driver is higher in rural and suburban cities compared to the urban cities, due to the higher ride demand compared to available drivers. 
 * Total fare revenue is higher in urban cities compared to suburban and rural cities, due to the total amount of rides (61% higher than suburban and 92% higher than rural). See weekly total fare by city plot.
-![](analysis/Pyber_fare_summary.png)
+![](analysis/Weekly_total_fare.png)
 
 
 ---
