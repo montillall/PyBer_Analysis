@@ -11,82 +11,12 @@ The objective of the analysis is to create a summary of the ride-sharing data by
 The table below, shows a summary of the differences in ride-sharing data among the different city types.
 ![](analysis/Pyber_Summary_by_City.png)
 
-### - District Summary Impact
-
-  Comparing the original and updated analysis, it can be seen that there's a neglectable (less than 1%) impact when removing 461 test scores from the    total 39170 student data set.  
-
-  Original Analysis 
-![](Images/School_District_Original_Analysis.png)
-
-  Updated Analysis
-![](Images/School_District_Updated_Analysis.png)
-
-
-	
-### - School Summary Impact
-
-  The impact of removing the 9th grader scores from the Thomas High School data set is pretty significant with a drop in the overall passing of 26% (from 91% to 65%).
-  
-  Original Analysis 
-![](Images/School_Summary_Original.png)
-
-  Updated Analysis
-![](Images/School_Summary_Updated.png)
-
-
-### - Thomas High School Performance with respect to other schools
-
-  The orginal analysis showed that Thomas High School was second in place with respect to the other schools in terms of performance. However, removing the 9th grader scores from the Thomas High School data set has caused its performance to drop to the 8th place with respect to the other schools.
-  
-  Original Analysis 
-![](Images/THS_Performance_Original.png)
-
-  Updated Analysis
-![](Images/THS_Performance_Updated.png)
-
-
-
-### - Math and Reading Scores by Grade Impact
-
-  The orginal average scores for math and reading for the 9th grade for Thomas High School was 83.59 and 83.73 respectively, by replacing the scores with NaN, now tables below show no scores for the 9th grade. 
-  
-  Math Updated by Grade 
-![](Images/Math_by_Grade_Updated.png)
-
-  Reading Updated by Grade
-![](Images/Reading_by_Grade_Updated.png)
-
-
-### - Scores by School Spending Impact
-
-  It can be seen in tables below that there's no impact on the scores by school spending when removing 461 test scores from the total 39170 student data set.  
-
-  Original Analysis 
-![](Images/Spending_by_School_Original.png)
-
-  Updated Analysis
-![](Images/Spending_by_School_Updated.png)
-
-### - Scores by School Size Impact
-
-  It can be seen in tables below that there's no impact on the scores by school size when removing 461 test scores from the total 39170 student data set.  
-
-  Original Analysis 
-![](Images/School_Size_Original.png)
-
-  Updated Analysis
-![](Images/School_Size_Updated.png)
-
-
-### - Scores by School Type Impact
- 
-  It can be seen in tables below that there's no impact on the scores by school type when removing 461 test scores from the total 39170 student data set.  
-
-  Original Analysis 
-![](Images/School_Type_Original.png)
-
-  Updated Analysis
-![](Images/School_Type_Updated.png)
+The summary of the data provides the following observations: 
+* There is a higher demand for rides in suburban and rural cities than urban cities compared to the total drivers available.
+* Urban cities have a ratio of about 2 drivers per ride, (less rides compared to available drivers).
+* The average fares per ride and per driver is higher in rural and suburban cities compared to the urban cities, due to the higher ride demand compared to available drivers. 
+* Total fare revenue is higher in urban cities compared to suburban and rural cities, due to the total amount of rides (61% higher than suburban and 92% higher than rural). See plot showing weekly total fare by city.
+![](analysis/Pyber_fare_summary.png)
 
 
 ---
